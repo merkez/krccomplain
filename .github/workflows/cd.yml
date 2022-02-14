@@ -55,26 +55,9 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.ROBOTCUK }}
 
-    - name: Upload screenshot to artifact as well
+    - name: Upload screenshot to artifact
       uses: actions/upload-artifact@v2
       with:
         name: result
         path: |
-          ./contact-page-*.png
-
-    - name: Create Release
-      id: create_release
-      uses: actions/create-release@v1
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      with:
-        tag_name: ${{ steps.date.outputs.date }}
-        release_name:  KRC Complain is done on ${{ steps.date.outputs.date }}
-        draft: false
-        prerelease: false
-
-    - name: Upload Release Assets
-      uses: shogo82148/actions-upload-release-asset@v1
-      with:
-        upload_url: ${{ steps.create_release.outputs.upload_url }}
-        asset_path: ./screenshots/*.png
+          ./screenshots/contact-page-*.png
