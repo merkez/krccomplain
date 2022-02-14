@@ -32,7 +32,7 @@ jobs:
         python main.py
       env:
         PHONE_NUMBER: ${{ secrets.PHONE_NUMBER }}
-        COMPLAIN_MESSAGE: ${{ secrets.PASSWORD }}
+        COMPLAIN_MESSAGE: ${{ secrets.COMPLAIN_MESSAGE }}
         EMAIL: ${{ secrets.EMAIL }}
 
     - name: Get current date
