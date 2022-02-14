@@ -49,8 +49,6 @@ jobs:
         git config --global user.name "robotcuk"
         git add 'screenshots/contact-page-*.png'
         git commit -m "${{ steps.date.outputs.date }} Complain is done to KRC on ${{ steps.date.outputs.date }}"
-        git tag -a ${{ steps.date.outputs.date }} -m "complain regarding to product done on ${{ steps.date.outputs.date }}"
-        git push origin ${{ steps.date.outputs.date }}
         git push origin -f main
       env:
         GITHUB_TOKEN: ${{ secrets.ROBOTCUK }}
