@@ -75,6 +75,5 @@ except:
     driver.find_element(By.ID, 'Description').clear()  # do not leak message
     driver.save_screenshot('contact-page-{}.png'.format(time_stamp))
     driver.close()
-    exit(1)
 
 driver.close()
