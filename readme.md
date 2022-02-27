@@ -7,7 +7,15 @@
 
 <sub> They contacted with me over an email by sending a service ticket which contains statement of refund. However, my point is to get the product instead of refund, which means that this repo will continuously send emails to KRC  </sub>
 
-<sub><b>Updates regarding to situation will come ....</b></sub>
+
+<sub><b>Update 2</b> </sub>
+
+
+<sub> Eventually, they explicitly wrote that I need to contact with seller instead of contacting with them. Luckily seller is Amazon, so I have contacted with seller and they refund me however the price that I bought it was three times less than its price currently. The seller pointed out that when product is in stock, they will refund the difference to me. (new price - old price) will be re-refunded. </sub>
+
+
+
+<sub><b>It seems that this is the end of the story, at least for time being. I can say that this automated way of sending complain messages helped me to conclude the situation. If I knew this is required, I would do it just right after sending the product to Karaca. Instead waited four months to get a reply, however they did not give a shit, so I decided to send same email daily. At the end, even though I am not satisfied with the result, I received a reply. </b></sub>
 
 
 <sub>[1] - Karaca Züccaciye A.Ş.</sub>
