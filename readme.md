@@ -17,6 +17,7 @@
 
 <sub><b>It seems that this is the end of the story, at least for time being. I can say that this automated way of sending complain messages helped me to conclude the situation. If I knew this is required, I would do it just right after sending the product to Karaca. Instead waited four months to get a reply, however they did not give a shit, so I decided to send same email daily. At the end, even though I am not satisfied with the result, I received a reply. </b></sub>
 
+<sub> The final result is basically receiving a refund for the product. :|  </sub>
 
 <sub>[1] - Karaca Züccaciye A.Ş.</sub>
 </sub>
